@@ -1,1 +1,1 @@
-Welcome to Authorea!
+Analog Simulation & Shit Like That.
