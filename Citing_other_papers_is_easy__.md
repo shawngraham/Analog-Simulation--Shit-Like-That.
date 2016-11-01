@@ -1,3 +1,3 @@
-Citing other papers is easy. Voilà: \cite{2012} or \cite{Holstein_2009}. Click on the <code>cite</code> button in the toolbar to search articles and cite them. Authorea also comes with a powerful commenting system. Don't agree that \(E  =  mc^{3}\)?!? Highlight the text you want to discuss or click the comment button. Find out more about using Authorea on [our help page](https://www.authorea.com/help).
+# Imagining Rome
 
-Shawn Graham is the shiz. \cite{Graham_2015} 
+Temin? Bang? Operationalizing an economy. We come at the economy from different angles - in SG’s earliest work, argued forcefully for the literal representation of social networks in the material culture of Rome (which is feasible given the intersection of stamps with bricks). TB argued for something a bit different…
