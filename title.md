@@ -1,1 +1,1 @@
-Analog Simulation & Shit Like That.
+Board Gaming as Analog Formalization in Digital Archaeology: When motherboard meets cardboard
